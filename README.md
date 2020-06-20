@@ -25,7 +25,9 @@ These extracted letters and numbers were then used to train the neural network. 
 
 Now we can test our network using our trained model. A sample output is shown below:
 
-![predicted output sample] (predicted_output_example.PNG)
+![predicted output example][predicted output example]
+
+[predicted output example]: https://github.com/nikhil1024/Breaking-Captcha-Using-Machine-Learning/blob/master/predicted_output_example.PNG
 
 ### Libraries Required:
 
