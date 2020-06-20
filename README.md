@@ -38,8 +38,8 @@ Now we can test our network using our trained model. A sample output is shown be
 
 ### How to run the code:
 
-Run extract_single_letters_from_captchas.py to split the Captcha's into single character images. Now we can just train the model for the task of Optical Character Recognition (OCR).
+Run `extract_single_letters_from_captchas.py` to split the Captcha's into single character images. Now we can just train the model for the task of Optical Character Recognition (OCR).
 
-Run train_model.py to train the model. (I am not providing my trained model for security reasons).
+Run `train_model.py` to train the model. (I am not providing my trained model for security reasons).
 
-Run solve_captchas_with_model.py to use your trained model to break Captcha's. Have fun!
+Run `solve_captchas_with_model.py` to use your trained model to break Captcha's. Have fun!
