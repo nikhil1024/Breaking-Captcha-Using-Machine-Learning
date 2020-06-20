@@ -4,6 +4,14 @@ This project aims to see how robust a Captcha is, whether a machine learning alg
 
 I have used Convolutional Neural Networks for this task.
 
+
+### Libraries Required:
+
+- Numpy
+- OpenCV
+- Sklearn
+- Keras
+
 ### How to run the code:
 
 Run extract_single_letters_from_captchas.py to split the Captcha's into single character images. Now we can just train the model for the task of Optical Character Recognition (OCR).
